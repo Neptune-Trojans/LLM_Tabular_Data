@@ -1,4 +1,4 @@
-# LLM Tabular Data
+# LLM on Tabular Data
 Relevant papers for Tabular Data Research
 
 ## Table Agents
